@@ -1,0 +1,12 @@
+* {
+    width: auto;
+}
+.container {
+    margin-top: 10%;
+    background-color: brown;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+p, h2, h3 {
+    color: rgb(0, 255, 115);
+}
